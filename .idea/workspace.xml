@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4a5999c-a753-4e10-80a0-ee6c0bf024ef" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/text/texted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/text/texted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,8 +46,8 @@
       <file leaf-file-name="texted.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/text/texted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="168">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -611,7 +611,7 @@
       <workItem from="1621766745230" duration="626000" />
       <workItem from="1621771113899" duration="7799000" />
       <workItem from="1621840324548" duration="5377000" />
-      <workItem from="1621914885099" duration="1441000" />
+      <workItem from="1621914885099" duration="1702000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1621915914547</created>
@@ -620,7 +620,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621915914547</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1621916345594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621916345594</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第三次提交">
+      <created>1621916592978</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621916592978</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -632,10 +646,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264402000" />
+    <option name="totallyTimeSpent" value="264663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067025" side_tool="true" weight="0.32909605" />
@@ -713,7 +728,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <MESSAGE value="第三次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -783,8 +800,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/text/texted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="168">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
